@@ -118,7 +118,7 @@ div.ui-card.show {
   transform: scale(1) !important;
 }
 div.ui-card.show div.title-card a.info {
-  background: #ff6666 !important;
+  background: #DD5D5D !important;
 }
 div.ui-card.show div.title-card a.info span {
   top: 15px;
